@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋 I'm dan-jose2006
 
-<!--
-**dan-jose2006/dan-jose2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Cybersecurity GIF](https://media.giphy.com/media/26gsspfY0x4bF3lhu/giphy.gif) <!-- Replace with any favorite GIF -->
 
-Here are some ideas to get you started:
+🎓 **Honors in Cybersecurity**  
+💻 **C Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔒 About Me
+
+I’m passionate about cybersecurity and skilled in C programming. My journey centers on securing systems and exploring the technical depths of computer science and information security.
+
+---
+
+## 🛠️ Skills
+
+![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity-Expert-brightgreen?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+Check out my repositories for code and experiments in cybersecurity and C!
+
+---
+
+## 🎉 Fun Zone
+
+![Hacker GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) <!-- Replace with another cool GIF -->
+
+---
+
+## 📫 Contact
+
+<!-- Add your LinkedIn, website, email, or other links here -->
+<!-- Example: -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK) -->
+
+---
+
+_Thanks for visiting!_ 👾
